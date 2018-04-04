@@ -33,11 +33,6 @@
             "Lecturize\\Addresses\\" : "src/"
         }
     },
-    "extra": {
-        "branch-alias" : {
-            "dev-master" : "0.0.x-dev"
-        }
-    },
     "support" : {
         "source" : "https://github.com/Lecturize/Laravel-Addresses",
         "issues" : "https://github.com/Lecturize/Laravel-Addresses/issues"
